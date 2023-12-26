@@ -1,7 +1,7 @@
 category: html
 title: html basic
-lectures: Kim
+lectures: Kwang
 related:
 - css
 - javascript
-- tag
+- taggit reset --hard 

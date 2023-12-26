@@ -1,16 +1,7 @@
 category: java
-<<<<<<< HEAD
-=======
-title: java basic
->>>>>>> update-title
+title: java advanced
 lectures: Lim
 related:
 - spring
 - MVC
-<<<<<<< HEAD
 - class
-=======
-- class
-- OOP
-- Polymorphism
->>>>>>> update-title
